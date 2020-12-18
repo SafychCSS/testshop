@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="5bf391bc-0389-4fff-8528-9a4a03036022" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/js/components/cart/CartComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/resources/js/components/cart/CartComponent.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +65,7 @@
       <updated>1608040630006</updated>
       <workItem from="1608040631077" duration="6918000" />
       <workItem from="1608058081557" duration="52318000" />
-      <workItem from="1608289269613" duration="2160000" />
+      <workItem from="1608289269613" duration="2446000" />
     </task>
     <servers />
   </component>
