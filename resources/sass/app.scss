@@ -1,0 +1,61 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+button:focus {
+    outline: 0;
+}
+
+.cart {
+    position: relative;
+    &__icon {
+        width: 26px;
+        height: 26px;
+    }
+}
+
+.card-color {
+    padding-right: 5px;
+}
+
+.product-color {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border-radius: 100%;
+}
+
+.cart-is-full {
+    position: fixed;
+    bottom: 200px;
+    right: 0;
+    z-index: 2;
+}
+
+.product-cart {
+    position: absolute;
+    top: 120%;
+    right: 0;
+    z-index: 99;
+    min-width: 300px;
+    animation-duration: .3s;
+
+    &__item {
+        animation-duration: .3s;
+    }
+
+    &__block {
+        margin: 0 5px;
+    }
+
+    &__block--name {
+        width: 70px;
+        white-space: nowrap;
+        overflow: hidden;
+    }
+}
