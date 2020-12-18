@@ -2,13 +2,6 @@
 <project version="4">
   <component name="PublishConfigData" serverName="bget" remoteFilesAllowedToDisappearOnAutoupload="false">
     <serverData>
-      <paths name="GAMEZZ_HICKS">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
       <paths name="bget">
         <serverdata>
           <mappings>
@@ -19,18 +12,9 @@
             <excludedPath path="/tests" />
             <excludedPath path="/storage" />
             <excludedPath path="/public" />
-            <excludedPath path="/bootstrap" />
-            <excludedPath path="/cgi-bin" />
             <excludedPath path="/node_modules" />
             <excludedPath path="/.env" />
           </excludedPaths>
-        </serverdata>
-      </paths>
-      <paths name="gamezz">
-        <serverdata>
-          <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
         </serverdata>
       </paths>
       <paths name="gamezzMy">

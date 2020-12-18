@@ -55,6 +55,9 @@ export default {
         ...mapGetters([
             'productsCart',
         ]),
+        productsSum() {
+            return this.productsCart.reduce((acc, item) => +item.price * item.count + acc, 0);
+        }
     }
 };
 </script>
